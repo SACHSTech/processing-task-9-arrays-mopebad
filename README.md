@@ -12,7 +12,7 @@ Acquire the learning objectives by reviewing [this page in happycoding.io](https
 Demonstrate your learning objectives by implementing the following:
   
 ### Level 2
-Create a sketch that simulates snow falling. When the down arrow is pressed on the keyboard, the snow falls faster.  Likewise, the snow falls slower when the up arrow is pressed.  Note: instead of setting your x-values of the snowballs to be a function of the randomly generated y (see the example [in happycoding.io](https://happycoding.io/tutorials/processing/arrays), you can have a related array of x values for your snowflakes and initialize them to be at randoml generated locations (just like the y values).
+Create a sketch that simulates snow falling. When the down arrow is pressed on the keyboard, the snow falls faster.  Likewise, the snow falls slower when the up arrow is pressed.  Note: instead of setting your x-values of the snowballs to be a function of the randomly generated y see the example [in happycoding.io](https://happycoding.io/tutorials/processing/arrays), you can have a related array of x values for your snowflakes and initialize them to be at randoml generated locations (just like the y values).
   
 ### Level 3
 Extend your snowfall progam by adding a blue player circle that is controlled by the user with the asdw keys.  (left, down, right , up).  Add a three squares at the top right of the screen to indicate player lives.  The player loses a life everytime it collides with snowflake.  The game ends when all lives are lost and the screen clears to white.
